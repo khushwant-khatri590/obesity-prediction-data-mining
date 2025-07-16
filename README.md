@@ -59,7 +59,7 @@ This project explores how lifestyle and physiological variables influence obesit
 obesity-prediction-data-mining/
 ├── CIS9660_Group7_Project.ipynb # Jupyter notebook with full code and analysis
 ├── CIS9660_Group7_Final_Report.pdf # Project report summarizing methods, results, and insights
-├── CIS9660_Group7_Project_Proposal_Slides.pptx # Initial proposal presentation (optional)
+├── CIS9660_Group7_Project_Proposal_Slides.pptx # Initial proposal presentatio
 └── README.md # Project documentation
 
 
