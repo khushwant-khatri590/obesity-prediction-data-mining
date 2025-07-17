@@ -58,7 +58,6 @@ This project explores how lifestyle and physiological variables influence obesit
 
 obesity-prediction-data-mining/
 ├── CIS9660_Group7_Project.ipynb # Jupyter notebook with full code and analysis
-├── CIS9660_Group7_Final_Report.pdf # Project report summarizing methods, results, and insights
 ├── CIS9660_Group7_Project_Proposal_Slides.pptx # Initial proposal presentatio
 └── README.md # Project documentation
 
@@ -71,8 +70,7 @@ This project was completed for **CIS 9660 – Data Mining for Business Analytics
 📍 Zicklin School of Business, Baruch College (Spring 2025)
 
 **Group 7 – Team Members:**  
-- Khushwant Khatri  
-- Helly Harshad Shah  
+- Khushwant Khatri   
 - Vibha Gokhale  
 - Maria Cristina Moreno Siguenza  
 - Isha Thakkar  
